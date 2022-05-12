@@ -2,7 +2,7 @@
 title: 'HackTheBox: Jarvis'
 date: 2019-08-19T10:04:56-04:00
 categories: [Walkthrough, HackTheBox]
-tags: [sqli, mysql, phpmyadmin, lfi, socat, systemctl]
+tags: [Linux, sqli, mysql, phpmyadmin, lfi, socat, systemctl]
 ---
 ## Recon:
 

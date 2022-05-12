@@ -2,7 +2,7 @@
 title: 'HackTheBox: SwagShop'
 date: 2019-08-19T12:40:27-04:00
 categories: [Walkthrough, HackTheBox]
-tags: [Magento, vi]
+tags: [Linux, Magento, vi escape]
 ---
 ## Recon
 

@@ -2,7 +2,7 @@
 title: 'HackTheBox: Craft'
 date: 2019-12-09T14:54:54-05:00
 categories: [Walkthrough, HackTheBox]
-tags: [web, api, git, jwt, mysql, Vault]
+tags: [Linux, web, api, git, jwt, mysql, Vault]
 ---
 <img class="alignnone size-full wp-image-402" src="/assets/img/2019/12/craft_logo.jpg" />
 

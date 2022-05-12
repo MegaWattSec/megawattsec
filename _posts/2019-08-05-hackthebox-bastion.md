@@ -2,7 +2,7 @@
 title: 'HackTheBox: Bastion'
 date: 2019-08-05T16:16:05-04:00
 categories: [Walkthrough, HackTheBox]
-tags: [smb, vhd, mRemoteNG]
+tags: [smb, vhd, mRemoteNG, Windows]
 ---
 ## Recon
 

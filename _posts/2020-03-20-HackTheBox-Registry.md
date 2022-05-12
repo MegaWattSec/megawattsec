@@ -2,7 +2,7 @@
 title: 'HackTheBox: Registry'
 date: 2020-03-20
 categories: [Walkthrough, HackTheBox]
-tags: [docker, linux, nginx, restic, cms, webshell, ssh, reverse port forward, jtr, CVE-2019-9185, python, anti-csrf]
+tags: [docker, Linux, nginx, restic, webshell, reverse port forward, CVE-2019-9185, anti-csrf]
 ---
 
 ![Registry Box](/assets/img/registry/Registry-Logo.png)
